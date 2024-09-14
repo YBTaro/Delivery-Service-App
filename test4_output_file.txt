@@ -1,0 +1,14 @@
+Order 101 has been created - ETA: 6
+Order 102 has been created - ETA: 13
+[101, 2, 300, 4, 6 ]
+Order 103 has been created - ETA: 18
+Order 101 has been delivered at time 6
+Order 104 has been created - ETA: 19
+Updated ETAs: [103: 24]
+Order 102 has been canceled
+Updated ETAs: [104: 13, 103: 18]
+Order 105 has been created - ETA: 24
+Order 105 will be delivered after 2 orders.
+Order 104 has been delivered at time 13
+Order 103 has been delivered at time 18
+Order 105 has been delivered at time 24

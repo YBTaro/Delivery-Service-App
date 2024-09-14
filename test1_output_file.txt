@@ -1,0 +1,30 @@
+Order 1001 has been created - ETA: 5
+Order 1002 has been created - ETA: 16
+Order 1003 has been created - ETA: 25
+Order 1001 has been delivered at time 5
+There are no orders in that time period
+Order 1004 has been created - ETA: 35
+Updated ETAs: [1003: 49]
+Order 1004 will be delivered after 1 orders.
+[1003]
+Order 1005 has been created - ETA: 59
+Order 1006 has been created - ETA: 70
+Order 1002 has been delivered at time 16
+Order 1005 has been canceled
+Updated ETAs: [1006: 54]
+Order 1004 will be delivered after 0 orders.
+Order 1007 has been created - ETA: 58
+Updated ETAs: [1006: 68]
+Order 1008 has been created - ETA: 79
+Updated ETAs: [1007: 63, 1006: 78, 1008: 89]
+Order 1006 will be delivered after 3 orders.
+[1007, 1006]
+Order 1009 has been created - ETA: 112
+Order 1004 has been delivered at time 35
+Order 1010 has been created - ETA: 137
+Order 1003 has been delivered at time 49
+Order 1007 has been delivered at time 63
+Order 1006 has been delivered at time 78
+Order 1008 has been delivered at time 89
+Order 1009 has been delivered at time 112
+Order 1010 has been delivered at time 137

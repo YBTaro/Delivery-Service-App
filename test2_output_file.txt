@@ -1,0 +1,33 @@
+Order 3001 has been created - ETA: 8
+Order 3002 has been created - ETA: 21
+Order 3003 has been created - ETA: 18
+Updated ETAs: [3002: 27]
+Order 3001 has been delivered at time 8
+Order 3004 has been created - ETA: 38
+Order 3005 has been created - ETA: 47
+Order 3006 has been created - ETA: 35
+Updated ETAs: [3004: 42, 3005: 51]
+[3003]
+Updated ETAs: [3004: 39, 3005: 45]
+Order 3003 has been delivered at time 18
+There are no orders in that time period
+Order 3005 has been canceled
+[3002]
+Order 3007 has been created - ETA: 44
+Order 3002 has been delivered at time 27
+Order 3008 has been created - ETA: 53
+Order 3009 has been created - ETA: 62
+Order 3006 has been delivered at time 35
+Order 3010 has been created - ETA: 46
+Updated ETAs: [3007: 54, 3008: 63, 3009: 72]
+Order 3004 has been delivered at time 39
+Order 3008 will be delivered after 2 orders.
+Order 3011 has been created - ETA: 79
+Order 3012 has been created - ETA: 85
+Order 3010 has been delivered at time 46
+There are no orders in that time period
+Order 3007 has been delivered at time 54
+Order 3008 has been delivered at time 63
+Order 3009 has been delivered at time 72
+Order 3011 has been delivered at time 79
+Order 3012 has been delivered at time 85

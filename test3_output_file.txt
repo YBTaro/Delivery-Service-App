@@ -1,0 +1,39 @@
+Order 4001 has been created - ETA: 4
+Order 4002 has been created - ETA: 13
+Order 4003 has been created - ETA: 22
+Order 4001 has been delivered at time 4
+Order 4004 has been created - ETA: 30
+Order 4002 has been delivered at time 13
+There are no orders in that time period
+Order 4003 will be delivered after 0 orders.
+Updated ETAs: [4003: 21, 4004: 28]
+Order 4005 has been created - ETA: 37
+Cannot cancel. Order 4002 has already been delivered.
+Order 4006 has been created - ETA: 44
+Order 4003 has been delivered at time 21
+There are no orders in that time period
+Order 4007 has been created - ETA: 49
+Order 4008 has been created - ETA: 56
+Order 4004 has been delivered at time 28
+There are no orders in that time period
+Order 4006 will be delivered after 1 orders.
+Order 4009 has been created - ETA: 64
+Cannot cancel. Order 4004 has already been delivered.
+Cannot update. Order 4005 has already been delivered.
+Order 4005 has been delivered at time 37
+Order 4010 has been created - ETA: 73
+[4006]
+Order 4007 will be delivered after 1 orders.
+Order 4011 has been created - ETA: 83
+Order 4012 has been created - ETA: 90
+There are no orders in that time period
+Updated ETAs: [4010: 74, 4011: 85, 4012: 92]
+Order 4006 has been delivered at time 44
+Order 4007 has been delivered at time 49
+Order 4009 has been canceled
+Updated ETAs: [4010: 68, 4011: 79, 4012: 86]
+Order 4008 has been delivered at time 56
+[4010, 4011, 4012]
+Order 4010 has been delivered at time 68
+Order 4011 has been delivered at time 79
+Order 4012 has been delivered at time 86
